@@ -1,0 +1,6 @@
+#home_page:
+campo_de_busca: '#search_query_top'
+botao_pesquisa: '.btn.btn-default.button-search'
+
+#search_result_page:
+resultado_busca: '.product-container'
